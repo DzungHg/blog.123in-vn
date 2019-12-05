@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+
+
+	<channel>
+		<title>Về In Ấn</title>
+		<link>http://blog.123in.vn/</link>
+		<description>Welcome to my blog. Enjoy reading and go on a multitude of exhilarating adventures with me.</description>
+		<language>en_US</language>
+		<copyright>2019 123in</copyright>
+		<pubDate>Fri, 16 Mar 2018 09:37:00 +0700</pubDate>
+		<image>
+			<url>http://blog.123in.vn/site/assets/files/1027/09_meraner_hohenweg.jpg</url>
+			<title>Về In Ấn</title>
+			<link>http://blog.123in.vn/posts/</link>
+		</image>
+
+
+		<item>
+			<title>Post number five</title>
+			<description>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</description>
+			<link>http://blog.123in.vn/posts/post-number-three-1/</link>
+			<author>Admin, dzung@caan.com.vn</author>
+			<guid>/posts/1067</guid>
+			<pubDate>Fri, 16 Mar 2018 09:37:00 +0700</pubDate>
+		</item>
+
+
+		<item>
+			<title>Post 4</title>
+			<description>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</description>
+			<link>http://blog.123in.vn/posts/post-2-1/</link>
+			<author>Admin, dzung@caan.com.vn</author>
+			<guid>/posts/1066</guid>
+			<pubDate>Thu, 15 Mar 2018 09:34:00 +0700</pubDate>
+		</item>
+
+
+		<item>
+			<title>Post number three</title>
+			<description>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</description>
+			<link>http://blog.123in.vn/posts/post-number-three/</link>
+			<author>Admin, dzung@caan.com.vn</author>
+			<guid>/posts/1062</guid>
+			<pubDate>Wed, 14 Mar 2018 09:37:00 +0700</pubDate>
+		</item>
+
+
+		<item>
+			<title>Post 2</title>
+			<description>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</description>
+			<link>http://blog.123in.vn/posts/post-2/</link>
+			<author>Admin, dzung@caan.com.vn</author>
+			<guid>/posts/1061</guid>
+			<pubDate>Tue, 13 Mar 2018 09:34:00 +0700</pubDate>
+		</item>
+
+
+		<item>
+			<title>Example Post</title>
+			<description>This is an example blog entry that explains some of the things you want to know about this site profile. You should probably unpublish it and keep it around at first. Make sure to add an entry of your own before you do so, or a lot of things might stop working in a completely empty blog.</description>
+			<link>http://blog.123in.vn/posts/example-post/</link>
+			<author>Admin, dzung@caan.com.vn</author>
+			<guid>/posts/1028</guid>
+			<pubDate>Mon, 12 Mar 2018 15:17:00 +0700</pubDate>
+		</item>
+
+
+	</channel>
+</rss>
