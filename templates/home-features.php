@@ -1,7 +1,7 @@
 				<!-- Features -->
 					<section id="features" class="container">
 						<header class="major">
-							<h2><?= _x("Post mới nhất và quan trọng", "blog") ?></h2>
+							<h2><?= _x("Bài mới nhất và quan trọng", "blog") ?></h2>
 						</header>
 						<div class="posts">
 
