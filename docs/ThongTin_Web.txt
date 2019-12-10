@@ -1,0 +1,9 @@
+Web FW: ProcessWire
+
+admin/Admin@1234
+
+Database:
+Database:	ad123in_blog
+Host:		localhost
+Username:	ad123in_123in
+Password:	2zgfjteK
