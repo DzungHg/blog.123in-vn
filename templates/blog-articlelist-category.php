@@ -23,7 +23,7 @@ foreach($blogposts as $blogpost)
 
 								<article class="post post-excerpt">
 									<header>
-										<h2><a href="#"><?= $blogpost->title ?></a></h2>
+										<h2><a href="<?= $blogpost->url() ?>"><?= $blogpost->title ?></a></h2>
 									</header>
 									<div class="info">
 										<?= blogDate($blogts); ?>

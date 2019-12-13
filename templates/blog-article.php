@@ -11,7 +11,8 @@ $blogts = $page->getUnformatted("blog_date");
 					<!-- Post -->
 					<section>
 						<header class="main">
-							<h1><a href="#"><?= $page->title ?></a></h1>
+							<!--<h1><a href="#"><?= $page->title ?></a></h1> sửa lại-->
+							<h1><?= $page->title ?></h1>
 						</header>
 
 						<article class="post">
